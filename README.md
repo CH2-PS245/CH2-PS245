@@ -15,7 +15,7 @@ Capstone project for Bangkit 2023
 | Name                    | Student ID    | Role                 | LinkedIn                                                                 | Github                                       |
 |:----------------------- |:------------- |:--------------------:|:------------------------------------------------------------------------ |:-------------------------------------------- |
 | `Yeftha Joshua Ezekiel` | `M006BSY0403` | `Machine Learning`   | [Click Me]( https://www.linkedin.com/in/yefthajoshua/)                   | [Click Me](https://github.com/ArkZ10)        |
-| `Raffel Prama Andhika`  | `M006BSY0185` | `Machine Learning`   | [Click Me]((https://www.linkedin.com/in/raffel-prama-andhika-24206a149/) | [Click Me](https://github.com/prm008 )       |
+| `Raffel Prama Andhika`  | `M006BSY0185` | `Machine Learning`   | [Click Me](https://www.linkedin.com/in/raffel-prama-andhika-24206a149/) | [Click Me](https://github.com/prm008 )       |
 | `Labiba Adinda Zahwana` | `M200BSX0414` | `Machine Learning`   | [Click Me](https://www.linkedin.com/in/labibaadinda/)                    | [Click Me](https://github.com/labibaadinda)  |
 | `Athhar Hafizha Luthfi` | `C370BSY3697` | `Cloud Computing`    | [Click Me](http://www.linkedin.com/in/athhar-hafizha-luthfi-a48050221)   | [Click Me](https://github.com/athharhafizh)  |
 | `Annisa Saninah`        | `C370BSX3515` | `Cloud Computing`    | [Click Me](https://www.linkedin.com/in/annisa-saninah-b50b57221/)        | [Click Me](https://github.com/Annisa03)      |
